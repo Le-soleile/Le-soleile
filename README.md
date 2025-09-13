@@ -19,9 +19,11 @@
 [![微信](https://img.shields.io/badge/-微信-07C160?style=flat-square&logo=wechat&logoColor=white)](https://example.com/wechat-qrcode)  
 📱 Wechat: 15776288006
 📧 Email：[3516093767@qq.com](mailto:3516093767@qq.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Le-soleile)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Le-soleile)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Le-soleile/Le-soleile/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Le-soleile/Le-soleile/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Le-soleile/Le-soleile/output/github-contribution-grid-snake.svg">
+</picture>
