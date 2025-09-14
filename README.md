@@ -20,11 +20,14 @@
 📱 Wechat: 15776288006
 📧 Email：[3516093767@qq.com](mailto:3516093767@qq.com)
 ---
-<!-- 蓝色系炫酷版 GitHub 活动图 -->
-![GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=Le-soleile&theme=blueberry&bg_color=0d1117&color=4cc9f0&line=4361ee&point=4895ef&area=true&area_color=4361ee33&radius=10&custom_title=GitHub%20Activity%20Graph&hide_border=false&border_radius=8&border_color=4361ee55)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Le-soleile/Le-soleile/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Le-soleile/Le-soleile/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Le-soleile/Le-soleile/output/github-contribution-grid-snake.svg">
 </picture>
+<!-- 蓝色系炫酷版 GitHub 活动图 -->
+![GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=Le-soleile&theme=blueberry&bg_color=0d1117&color=4cc9f0&line=4361ee&point=4895ef&area=true&area_color=4361ee33&radius=10&custom_title=GitHub%20Activity%20Graph&hide_border=false&border_radius=8&border_color=4361ee55)
+
+
+
