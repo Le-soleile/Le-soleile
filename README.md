@@ -1,6 +1,7 @@
-### 👋 泥嚎
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=40&pause=2000&color=CB715F&vCenter=true&random=true&width=600&height=100&lines=Take+a+deep+breath+relax+and+stay+alert.)](https://git.io/typing-svg)
+### 👋 
 
-##### 一名热爱AI的开发者，对国产AI框架、NLP、深度强化学习、多模态大模型等感兴趣。
+##### An AI enthusiast developer who's into domestic AI frameworks, NLP, deep reinforcement learning, and multimodal large models.
 
 ---
 
