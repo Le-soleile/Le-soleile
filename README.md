@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=40&pause=300&color=A259FF&vCenter=true&random=true&width=600&height=80&lines=Take+a+deep+breath+relax+and+stay+alert.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=40&pause=300&color=A259FF&vCenter=true&random=true&width=600&height=80&lines=Take+a+deep+breath,;+relax+and+stay+alert.)](https://git.io/typing-svg)
 ### 👋 
 
 ##### An AI enthusiast developer who's into domestic AI frameworks, NLP, deep reinforcement learning, and multimodal large models.
