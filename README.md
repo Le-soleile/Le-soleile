@@ -8,6 +8,11 @@
 ![AI](https://img.shields.io/badge/-AI-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white)
 ![PaddlePaddle](https://img.shields.io/badge/-PaddlePaddle-41B883?style=flat-square&logo=paddlepaddle&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/-Isaac%20Sim-000000?style=flat-square&logo=nvidia&logoColor=76B900)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
